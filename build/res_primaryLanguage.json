@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Hi 👋",
+      "description": "I'm Jonalie Estoya, a Web developer I graduated last 2019 from Bicol University with a Bachelor of Science in Information Technology. after I graduate I started my career in the call center industry and I have one and a half year of experience as a technical support associate for Sales and Marketing then I shift a career as a Web developer so I enrolled in Kodego bootcamp. I enjoy planning and coming up with ideas with the collaborative team.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"  
+      }
+    },
+    "projects": [
+      {
+        "title": "Yamaha",
+        "startDate": "2022",
+        "description": "A small project that I had opportunity to work with.",
+        "images": [
+          "images/portfolio/yamaha/p1.png",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "E-commerce",
+        "startDate": "2022",
+        "description": "First mini project experience in Kodego Bootcamp. I have a partner in creating this awesome project. I was the one who come up with the idea of e-commerce for clothing",
+        "images": [
+          "images/portfolio/e-commerce/p1.png",
+          "images/portfolio/e-commerce/p2.png"
+        ],
+        "url": "https://jjapparels.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Iskolab",
+        "startDate": "2022",
+        "description": "the mini 2 project from Kodego bootcamp. This was build by 5 team player. We divided our task by section, I was assigned in the section 2 from the index page and for the dashboard page. I feel so overwhelm when i see my output was similar to the figma design. I've learned a lot!",
+        "images": [
+          "images/portfolio/iskolab/p1.png",
+          "images/portfolio/iskolab/p2.png"
+        ],
+        "url": "https://github.com/just-teen/Iskolab",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "KODEGO",
+        "title": "Web Developer Student",
+        "years": "10.2022 - 01.2023",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Html 5",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "React-Bootstrap",
+          "PHP",
+          "MySql",
+          "laravel"
+        ]
+      },
+      {
+        "company": "Netfluence Software Development",
+        "title": "Technical Support Associate",
+        "years": "03.2021 - 09.2022",
+        "mainTech": [
+          "HubSpot Workflows 8/9"
+        ],
+        "technologies": [
+          "Hubspot CRM",
+          "Hubspot Marketing",
+          "Hubspot Dashboard",
+          "QA",
+          "Data Auditing"
+        ]
+      }
+    ]
+  }
